@@ -3,5 +3,8 @@
   "binary": "/chia-blockchain/venv/bin/chia",
   "mainnet": ".chia/mainnet",
   "config": ".chia/mainnet/config/config.yaml",
-  "webLogLevel": "error"
+  "webLogLevel": "error",
+  "webLogFile": ".coctohug-web/web.log",
+  "watchDogLogLevel": "error",
+  "watchDogLogFile": ".coctohug-web/cwd.log"
 }
